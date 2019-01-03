@@ -730,3 +730,5 @@
 127.0.0.1 db5sch103102516.wns.windows.com
 127.0.0.1 definitionupdates.microsoft.com
 127.0.0.1 download.microsoft.com
+127.0.0.1 *.doubleclick.net
+127.0.0.1 *.g.doubleclick.net
