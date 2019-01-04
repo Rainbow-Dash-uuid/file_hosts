@@ -728,3 +728,5 @@
 127.0.0.1 download.microsoft.com
 127.0.0.1 *.doubleclick.net
 127.0.0.1 *.g.doubleclick.net
+127.0.0.1 googleadservices.com
+127.0.0.1 tpc.googlesyndication.com
