@@ -1,12 +1,15 @@
 # File "Hosts"
-Это файл "Hosts" В который прописаны ненужные сайты, которые содержат рекламные скрипты, и прочее XML с рекламой.
-После установки, рекламы станет меньше, и будет меньше вредоносных XML скриптов.
-Установка производиться довольно простым способом:
-Для этого нужно скачать файл "install", и открыть от имени администратора. А дальше перезагрузить ПК.
-Результат будет замечен, Приятного использования.
+This is the file "Hosts" In which unnecessary sites are registered, which contain advertising scripts, and other XML with advertising.
+After installation, advertising will be less, and there will be less malicious XML scripts.
+Installation is done in a fairly simple way:
+To do this, download the file "install", and open as administrator. And then restart the PC.
+The result will be noticed, Enjoyable use.
 
-# Список сайтов будет постепенно пополнятся
+# The list of sites will be gradually replenished
 
-Так же, будет заблокированы сайты телеметрии  Microsoft, Windows
+Also, Microsoft, Windows telemetry sites will be blocked.
 
-Файл install.exe Это самораспаковывающийся архив WinRAR, Содержаший в себе файл Hosts
+The install.exe file is a WinRAR self-extracting archive containing the Hosts file.
+
+# How it works?
+I'll tell you in a simpler language, the sites that are registered there will not work.
